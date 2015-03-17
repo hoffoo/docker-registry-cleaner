@@ -4,7 +4,8 @@ import (
 	"time"
 
 	"log"
-	"registry/registry"
+
+	"github.com/hoffoo/docker-registry-cleaner/registry"
 )
 
 func main() {
